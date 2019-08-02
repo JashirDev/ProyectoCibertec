@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Proyectoadm</string>
+    <string name="bt_login">Login</string>
+    <string name="tv_register_message">Si aun no tienes cuenta crealo</string>
+    <string name="tv_go_to_register">Aqui</string>
+    <string name="ti_email">Email</string>
+    <string name="ti_password">Contraseña</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "133481202231",
+    "firebase_url": "https://cibertec-71d08.firebaseio.com",
+    "project_id": "cibertec-71d08",
+    "storage_bucket": "cibertec-71d08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133481202231:android:456648164cd0b6a3",
+        "android_client_info": {
+          "package_name": "com.example.proyectoadm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133481202231-1sf6gdgffcp1ae807s5hkcftveut2j6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proyectoadm",
+            "certificate_hash": "7aa2871a1985a8547fed04c7f8c57099feaf8282"
+          }
+        },
+        {
+          "client_id": "133481202231-f7pi4p2jo7cpqrc4kafv3m7tpf1d4eas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuBWGpjvD8l7eTCo_Fz3sL_nsxFiQN0Sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133481202231-f7pi4p2jo7cpqrc4kafv3m7tpf1d4eas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
