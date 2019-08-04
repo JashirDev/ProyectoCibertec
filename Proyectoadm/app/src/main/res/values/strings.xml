@@ -5,4 +5,8 @@
     <string name="tv_go_to_register">Aqui</string>
     <string name="ti_email">Email</string>
     <string name="ti_password">Contraseña</string>
+    <string name="ti_name">Nombre</string>
+    <string name="ti_confirm_password">Confirmar contraseña</string>
+    <string name="bt_register">Registrar</string>
+    <string name="bt_cancelar">Cancelar</string>
 </resources>

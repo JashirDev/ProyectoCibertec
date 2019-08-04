@@ -36,7 +36,7 @@
         app:layout_constraintVertical_bias="0.585" />
 
     <TextView
-        android:id="@+id/loginIraregistro"
+        android:id="@+id/tvGoRegister"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
@@ -64,6 +64,8 @@
         app:layout_constraintTop_toTopOf="parent">
 
         <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/tvEmail"
+            android:drawableStart="@android:drawable/ic_menu_edit"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/ti_email" />
@@ -81,9 +83,12 @@
         app:layout_constraintTop_toBottomOf="@+id/textInputLayout">
 
         <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/tvPassword"
+            android:drawableStart="@android:drawable/ic_lock_lock"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="@string/ti_password" />
+            android:hint="@string/ti_password"
+            android:inputType="textPassword"/>
     </com.google.android.material.textfield.TextInputLayout>
 
 
